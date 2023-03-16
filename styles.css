@@ -1,0 +1,24 @@
+form{
+    background-color: #EEE;
+    border: 3px;
+    border-color: orange;
+    border-style: solid;
+    margin-top: 20px;
+}
+
+#submit {
+   display: block;
+   margin-top: 25px;
+} 
+
+label, input{
+    display: block;
+}
+
+label{
+    margin-bottom: 5px;
+    margin-top: 15px;
+}
+select {
+    padding: 5px;
+}
